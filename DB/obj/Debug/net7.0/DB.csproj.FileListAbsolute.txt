@@ -1,0 +1,14 @@
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\bin\Debug\net7.0\DB.deps.json
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\bin\Debug\net7.0\DB.runtimeconfig.json
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\bin\Debug\net7.0\DB.dll
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\bin\Debug\net7.0\DB.pdb
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.csproj.AssemblyReference.cache
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.AssemblyInfoInputs.cache
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.AssemblyInfo.cs
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.csproj.CoreCompileInputs.cache
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.dll
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\refint\DB.dll
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.pdb
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\DB.genruntimeconfig.cache
+D:\Cosas de Estudio\Curso_.NET\CodeFirstApi\DB\obj\Debug\net7.0\ref\DB.dll
